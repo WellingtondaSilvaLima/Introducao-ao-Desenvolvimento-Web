@@ -19,6 +19,8 @@ section {
   width: 600px;
   height: 400px;
   border-radius: 5px;
+  border: 2px solid white;
+  margin-top: 15px;
 }
 
 .content {
@@ -39,6 +41,7 @@ button {
 .secondary {
   background-color: #cc0000;
   color: white;
+  visibility: hidden;
 }
 
 input {
